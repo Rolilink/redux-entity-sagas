@@ -88,7 +88,7 @@ export default function createEntitySaga(
         const shouldDispatchEntityAction = yield call(
           shouldDispatchEntityActionFn,
           response,
-          entity
+          entity,
         );
 
         if (shouldDispatchEntityAction) {
