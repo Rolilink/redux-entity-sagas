@@ -1,5 +1,5 @@
 {
-  "name": "redux-entity-sagas",
+  "name": "@rolilink/redux-entity-sagas",
   "version": "1.0.0",
   "repository": "git@github.com:Rolilink/redux-entity-sagas.git",
   "author": "Rolando <me@rolilink.com>",
